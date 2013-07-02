@@ -1,5 +1,11 @@
 Searching for the lightweight coin binary vs trinary
 
+Run it like so:
+
+ruby coin_finder.rb
+
+Sample Output:
+
 Binary search averaged 2 moves for 10 coins
 Binary search averaged 8 moves for 100 coins
 Binary search averaged 17 moves for 1000 coins
