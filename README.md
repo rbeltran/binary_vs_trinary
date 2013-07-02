@@ -1,5 +1,15 @@
 Searching for the lightweight coin binary vs trinary
 
+Details:
+
+You are give X coins. And You know all the coins weigh the same except one. One coin is lighter
+than all the rest. All you have is the coins and an old balance scale that tells if you either 
+one side is heavier or they weights are equal.  How do you find the light coin?
+
+Binary search is fast right?  You would think so.  Either my code is bad or Trinary is the
+way to go here.
+
+
 Run it like so:
 
 ruby coin_finder.rb
